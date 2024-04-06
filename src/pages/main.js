@@ -24,7 +24,7 @@ export default function Main(){
                     <div className='ms-8'><a href='/tariff'>Тарифы</a></div>
                     <div className='ms-8'><a href=''>Личный кабинет</a></div>
                 </div>
-                <div className='w-1/3 ps-40'><a href="/reg"><button as='a' className="font-bold inline-flex bg-black hover:bg-black  text-xs px-8 py-4 rounded-full text-white">
+                <div className='w-1/3 ps-40'><a href="/login"><button as='a' className="font-bold inline-flex bg-black hover:bg-black  text-xs px-8 py-4 rounded-full text-white">
                     Авторизация
                 </button></a></div>
             </div>
